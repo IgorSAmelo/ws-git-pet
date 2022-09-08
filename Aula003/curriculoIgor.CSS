@@ -1,0 +1,21 @@
+body
+{
+    background-color: rgba(238, 203, 5, 0.021);
+}
+
+h1
+{
+    background-color: rgb(175, 159, 219);
+}
+
+h2 
+{
+    color:rgb(206, 219, 15);
+    font-family: cambria;
+}
+
+table
+{   
+    color:greenyellow;
+    border: coral;
+}
