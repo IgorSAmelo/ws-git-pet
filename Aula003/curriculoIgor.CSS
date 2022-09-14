@@ -3,19 +3,41 @@ body
     background-color: rgba(238, 203, 5, 0.021);
 }
 
+ul
+{   font-family: Cambria;
+
+}
 h1
 {
     background-color: rgb(175, 159, 219);
+    font-size: 40px;
+}
+
+th{
+    font-size: 25px;
+    font-family: 'verdana';
+    color: #607eaa;
+}
+
+td{
+    text-align: center;
 }
 
 h2 
 {
     color:rgb(206, 219, 15);
     font-family: cambria;
+    font-size: 40px;
 }
 
 table
 {   
     color:greenyellow;
     border: coral;
+}
+
+.centro{
+    display: grid;
+    place-items: center;
+    text-align: center;
 }
